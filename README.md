@@ -1,5 +1,5 @@
 # About this project
-A CLI Tool (CommandLine Interface) for generating, comparing and saving SHA256 Hash Code.
+A CLI Tool (Command-Line Interface) for generating, comparing and saving SHA256 Hash Code.
 # What is SHA256?!
 SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function that takes an input and produces a fixed-size 256-bit (32-byte) output, typically represented as a 64-character hexadecimal string.
 # Where can we use them?
@@ -12,8 +12,8 @@ SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function that ta
 
   -------
 
-# How does this projct work?
-Well it's so easy to work with this application. As I mentioned, it's a CommandLine Interface and you should work with it with cmd on windows.
+# How does this project work?
+Well it's so easy to work with this application. As I mentioned, it's a Command-Line Interface and you should work with it with cmd on windows.
 Before we get inside of it, it's better for you to add the executable format (.exe) to the **Environment path** on **windows**. You can put any name on it. The default name is SHA256.exe<br>
 There are lots of tutorials that teach how we can do this. It's better to take a look of them.
 <br>
@@ -63,16 +63,16 @@ Example:<br>
 ![View Of GeneratedHash](/Assets/Images/ViewOfGeneratedHash.PNG)<br>
 As you can see, I highlighted them with yellow, the application count all of the **File Element** from first and second **GeneratedHash.xml**,<br>
 If they were the same, it will compare **Element by Element** from first to last.<br>
-Example of comparing two **GeneratedHash.xml** (I edited some values to print the incorrect files for testing:<br>
+Example of comparing two **GeneratedHash.xml** (I edited some values to print the incorrect files for testing):<br>
 ![Example of Comparing with Incorrect files](/Assets/Images/ComparingWithIncorroctFiles.PNG)<br>
 Here we undestand how many errors we got, and which files are incorrect.
 <br><br>
 Some tips befor using my app<br>
 **1** - Please don't edit the **GeneratedHash.xml** files. It's so important!<br>
 **2** - If you wanna checksum files, at first copy them from source to your destination, then generate hash codes from source and destination, Then compare them. <br>Don't copy them and change file name and generate hash codes, the comparing works with file name and hash codes.<br>
-**3** - And please if you got error, feel free to tell me, I'm here to listen and help, but I'm talking about real errors, not simplest OK!<br>
+**3** - And please if you got any error, feel free to tell me, I'm here to listen and help.<br>
 
-# Where we use this app?<br>
+# Where I use this app?<br>
 I use my app for generating hash codes and checksums of files especially videos<br>
 When I copy some videos from source to a destination, I checksum and compare them<br><br>
 
