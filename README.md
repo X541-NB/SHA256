@@ -37,10 +37,10 @@ Example: <br>
 ![Example of -f](/Assets/Images/Option-f.PNG)<br>
 As you can see it generated hash code.
 You can save the hash code to a **.xml** file too with option **-s**
-Here are the exmaple:<br>
+Here are the example:<br>
 ![Example of -f with -s](/Assets/Images/Option-f_with-s.PNG)<br>
 Notice: if you use **-s** option with a **specified path**, app doesn't display the hash code on screen!<br>
-It will save the hash code to a file called **GeneratedHash.xml**, this option **doesn't generate the folder it should generated befor**<br>
+It will save the hash code to a file called **GeneratedHash.xml**, this option **doesn't generate the folder it should be generated before**<br>
 Option **-s** is optional, you can use it or not, it's your choice.<br>
 The next option we can use is **d**, option **-d** means search a **directory** and **subfolders** and **all files** (Seaching full directory)<br>
 and then generate hash codes from all files.<br>
